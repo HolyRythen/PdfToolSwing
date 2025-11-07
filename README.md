@@ -29,7 +29,7 @@ Lade PDFBox von: [https://pdfbox.apache.org/download.html](https://pdfbox.apache
 ## ⚙️ Installation & Start
 
 1. Lege die Datei **`PdfToolSwing.java`** in einen Ordner, z. B.:  
-   `C:\Users\RobertMartin\Desktop\java-programms\PDF Merger`
+   `C:\Users\user\Desktop\java-programms\PDF Merger`
 
 2. Lade **`pdfbox-app-3.0.6.jar`** herunter und speichere sie im selben Ordner.
 
